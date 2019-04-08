@@ -15,5 +15,5 @@ run python gui.py
 A gui screen will pop-up.</br>
 Paste your text in it.
 Press simulate button
-Now navigate to the screen where eyou want the text to be writtened (In my case a notepad in Citrix remote machine)
-it will take 3 seconds before it starts writing.
+Now navigate to the screen where eyou want the text to be writtened (In my case a notepad in Citrix remote machine)</br>
+It will take 3 seconds before it starts writing.
